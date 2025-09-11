@@ -10,4 +10,4 @@ Kromě deníku můžete sledovat náš postup také přes aplikaci Strava kam bu
 Přejeme příjemné čtení a myslíme na vás!
 
 Jíťa & Mára
-
+![profile.jpg](profile.jpg)
